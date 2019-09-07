@@ -29,4 +29,13 @@ file tersebut merupakan jawaban no 1-5, oh iya untuk jawaban no 6 saya buatkan l
 
 #### CONTOH GAMBAR NO 6A
 
-![](masta12/6/A/6A.JPG)
+![](masta12/6/A/6A.JPG)   
+
+- dan direktori dengan nama B&C merupakan jawaban dari 6b dan 6c, bahasa program yang saya gunakan PHP dan tampilannya saya menggunakan BOOTSTRAP dengan database MYSQL.  
+
+### CARA MENJALAKAN 
+1. copy direktori B&C copy paste ke C:\XAMPP5\htdocs\masta12\6\B&C  (tergantu letak pas kita install sebulmnya).
+2. buka browser , browser saat saya kerjakan menggunakan Chrome.
+3. ketik http://localhost/phpmyadmin/ di URL.
+4. klik new apabila belum ada database.
+5. klik database yang mau di import lalu 
