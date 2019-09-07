@@ -14,4 +14,4 @@ file tersebut merupakan jawaban no 1-5, oh iya untuk jawaban no 6 saya buatkan l
 
 ### CARA MENJALAKANNYA
 
-1 untuk no 1 saya menggunakan bahasa program PHP, cara menjalakannya bisa lewat http://phptester.net/ dengan cara membuka file dengan nama 1.php lalu copy dan paste ke http://phptester.net/.
+1. untuk no 1 saya menggunakan bahasa program PHP, cara menjalakannya bisa lewat http://phptester.net/ dengan cara membuka file dengan nama 1.php lalu copy dan paste ke http://phptester.net/.
