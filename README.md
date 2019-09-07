@@ -14,6 +14,8 @@ file tersebut merupakan jawaban no 1-5, oh iya untuk jawaban no 6 saya buatkan l
 
 ### CARA MENJALAKANNYA
 
+Catatan untuk text editor Online saya saat mengerjakannya menggunakan http://phptester.net/.  
+
 1. untuk no 1 saya menggunakan bahasa program PHP, cara menjalakannya saya menggunakan http://phptester.net/ dengan cara membuka file dengan nama 1.php lalu copy dan paste ke http://phptester.net/ nanti hasil akan muncul apabila codingan sudah di pastekan.
 
 2. untuk no 2 saya menggunakan bahasa program PHP, cara menjalakannya saya menggunakan http://phptester.net/ dengan cara membuka file dengan nama 2.php lalu copy dan paste ke http://phptester.net/ nanti hasil akan muncul apabila codingan sudah di pastekan.
@@ -38,4 +40,32 @@ file tersebut merupakan jawaban no 1-5, oh iya untuk jawaban no 6 saya buatkan l
 2. buka browser , browser saat saya kerjakan menggunakan Chrome.
 3. ketik http://localhost/phpmyadmin/ di URL.
 4. klik new apabila belum ada database.
-5. klik database yang mau di import lalu 
+5. klik import pilih file sql dengan nama db_arkademy.sql
+6. apabila sudah import, bisa buka url di Chrome dengan http://localhost/sourcecodearka/masta12/6/B&C/index.php nanti akan muncul seperti gambar di bawah ini.. 
+
+![](masta12/6/B&C/Tampilan/tampilanHome.png)
+
+pada bagian gambar di atas merupakan halaman home apabila klik button ADD akan muncul gambar di bawah ini...  
+
+![](masta12/6/B&C/Tampilan/tampilanAddData.PNG)
+
+pada gambar di atas cotoh saya ADD DATA baru.   
+
+apabila klik icon edit yang berwarna hijau akan muncul gambar seperti di bawah ini..
+
+![](masta12/6/B&C/Tampilan/tampilanEditData.PNG)  
+
+pada gambar di atas saya klik icon edit yang datanya indra juniyanto
+
+apabila klik icon delete yang berwarna merah akan muncul gambar seperti di bawah ini..
+
+![](masta12/6/B&C/Tampilan/tampilanDeleteData.PNG)  
+
+pada gambar di atas saya klik icon delete yang datanya indra juniyanto akan di hapus    
+
+
+## SELESAI...
+Sekian dari penjelasan saya apabila ada salah kata mohon di maafkan :-D :-D
+BY : INDRA JUNIYANTO
+
+
