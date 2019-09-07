@@ -41,7 +41,7 @@ Catatan untuk text editor Online saya saat mengerjakannya menggunakan http://php
 3. ketik http://localhost/phpmyadmin/ di URL.
 4. klik new apabila belum ada database.
 5. klik import pilih file sql dengan nama db_arkademy.sql
-6. apabila sudah import, bisa buka url di Chrome dengan http://localhost/sourcecodearka/masta12/6/B&C/index.php nanti akan muncul seperti gambar di bawah ini.. 
+6. apabila sudah import, bisa buka url di Chrome dengan http://localhost/masta12/6/B&C/index.php nanti akan muncul seperti gambar di bawah ini.. 
 
 ![](masta12/6/B&C/Tampilan/tampilanHome.png)
 
